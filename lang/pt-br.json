@@ -12,6 +12,7 @@
   "YZECORIOLIS.Radiation": "Radiação",
   "YZECORIOLIS.Experience": "Experiência",
   "YZECORIOLIS.Encumbrance": "Sobrecarga",
+  "YZECORIOLIS.MovementRate": "Movimento",
 
   "YZECORIOLIS.CrewPosition": "Cargo na Tripulação",
   "YZECORIOLIS.CrewSpotCaptain": "Capitão",
@@ -71,6 +72,7 @@
 
   "YZECORIOLIS.MoneyCost": "Custo",
   "YZECORIOLIS.MoneyCostIncrease": "Aumento de Custo (%)",
+  "YZECORIOLIS.Effect": "Efeito",
   "YZECORIOLIS.Birr": "Birr",
   "YZECORIOLIS.GroupConcept": "Conceito de Grupo",
   "YZECORIOLIS.Category": "Categoria",
@@ -138,6 +140,9 @@
   "YZECORIOLIS.EditCriticalInjury": "Editar Ferimento Grave",
   "YZECORIOLIS.DeleteCriticalInjury": "Remover Ferimento Grave",
   "YZECORIOLIS.NewCriticalInjury": "Novo Ferimento Grave",
+  "YZECORIOLIS.FatalInjury": "Fatal",
+  "YZECORIOLIS.InjuryTimeLimitRoll": "Limite de Tempo",
+  "YZECORIOLIS.InjuryHealTimeRoll": "Tempo de Cura",
   "YZECORIOLIS.ArmorRating": "Nível de Proteção",
   "YZECORIOLIS.ExtraFeatures": "Características Extra",
 
@@ -310,6 +315,7 @@
 
   "YZECORIOLIS.CritTypeNumeric": "Crit Numérico",
   "YZECORIOLIS.CritTypeCustom": "Crít Person.",
+  "YZECORIOLIS.DamageTypeCustom": "Dano Person.",
 
   "YZECORIOLIS.CloseRange": "Perto",
   "YZECORIOLIS.ContactRange": "Contato",
@@ -320,6 +326,7 @@
 
   "YZECORIOLIS.MigratedDP": "Sistema de Pontos Sombrios Migrado.",
   "YZECORIOLIS.HPBonus": "Bonus de PV",
+  "YZECORIOLIS.MPBonus": "Bonus de PM",
   "YZECORIOLIS.Melee": "Corpo a Corpo"
   
   "YZECORIOLIS.SheetClassCharacter": "Ficha de Personagem",
@@ -340,6 +347,8 @@
   "YZECORIOLIS.Modules": "Módulos",
   "YZECORIOLIS.CriticalDamage": "Dano Crítico",
   "YZECORIOLIS.Notes": "Notas",
+  "YZECORIOLIS.MaxEnergyPoints": "Pontos de Energia Max",
+  "YZECORIOLIS.MaxHullPoints": "Pontos de Casco Max",
 
   "YZECORIOLIS.SettingMaxEnergyPoints": "Pontos de Energia Máximos Permitidos",
 
